@@ -17,15 +17,17 @@
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
+<br />
+
 ### Technologies that I want to learn:
 
 <img align="left" alt="Illustrator" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
 <img align="left" alt="Photoshop" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
 <img align="left" alt="Flutter" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
-<img align="left" alt="Django" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-<img align="left" alt="Scala" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
 <img align="left" alt="C#" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+<img align="left" alt="Scala" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
+<img align="left" alt="Django" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
 
 <br/>
 <br/>
