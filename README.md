@@ -19,4 +19,7 @@
 <br/>
 <br/>
 
-![Wei Sin's github stats](https://github-readme-stats.vercel.app/api?username=weisintai&show_icons=true&theme=onedark&count_private=true)
+### Github Stats:
+
+[![Wei Sin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weisintai&theme=onedark&count_private=true)](https://github.com/weisintai)
+[![Wei Sin's github stats](https://github-readme-stats.vercel.app/api?username=weisintai&show_icons=true&theme=onedark&count_private=true)](https://github.com/weisintai)
