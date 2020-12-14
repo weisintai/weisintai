@@ -6,7 +6,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 
 <br/>
 <br/>
