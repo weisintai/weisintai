@@ -16,15 +16,12 @@
 - Python
 - React
 
-<br />
-
 ### Technologies that I want to learn:
 - Flutter
 - C#
 - Illustrator
 - Photoshop
 
-<br/>
 <br/>
 
 ### Github Stats:
