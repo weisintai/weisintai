@@ -2,4 +2,3 @@
 <h3 align="center">I'm a Developer, also a Student!</h3>
 
 - I'm currently studying Diploma in Information Technology in Singapore Polytechnic.
-- Interested in front-end development, back-end development, UI/UX design, and machine learning.
